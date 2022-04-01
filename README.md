@@ -8,11 +8,10 @@ These files have been tested and used to generate a live ELK deployment on Azure
 They can be used to either recreate the entire deployment pictured above. 
 Alternatively, select portions of the playbook (.yml) file may be used to install only certain pieces of it, such as Filebeat.
 
-  - _TODO: Enter the playbook file._
-  - https://github.com/SDEhrenberger/Project-1/blob/9229d1a86cfce00f473be408478183c50e4b11be/Ansible/pentest.yml.txt  -Used to install the DVWA servers
-  - https://github.com/SDEhrenberger/Project-1/blob/9229d1a86cfce00f473be408478183c50e4b11be/Ansible/install-elk.yml.txt -Used to install the elk stack
-  - https://github.com/SDEhrenberger/Project-1/blob/9229d1a86cfce00f473be408478183c50e4b11be/Ansible/filebeat-playbook.yml.txt -Used to install Filebeat on elk and DVWA servers.
-  - https://github.com/SDEhrenberger/Project-1/blob/9229d1a86cfce00f473be408478183c50e4b11be/Ansible/metricbeat-playbook.yml.txt -Used to install Metricbeat on elk and DVWA servers.
+  - (pentest.yml)[https://github.com/SDEhrenberger/Project-1/blob/9229d1a86cfce00f473be408478183c50e4b11be/Ansible/pentest.yml.txt]  -Used to install the DVWA servers
+  - (Install-Elk.yml)[https://github.com/SDEhrenberger/Project-1/blob/9229d1a86cfce00f473be408478183c50e4b11be/Ansible/install-elk.yml.txt] -Used to install the elk stack
+  - (Install-filebeat)[https://github.com/SDEhrenberger/Project-1/blob/9229d1a86cfce00f473be408478183c50e4b11be/Ansible/filebeat-playbook.yml.txt] -Used to install Filebeat on elk and DVWA servers.
+  - (Install-metricbeat)[https://github.com/SDEhrenberger/Project-1/blob/9229d1a86cfce00f473be408478183c50e4b11be/Ansible/metricbeat-playbook.yml.txt] -Used to install Metricbeat on elk and DVWA servers.
 
 This document contains the following details:
 - Description of the Topology
