@@ -49,7 +49,7 @@ The machines on the internal network are not exposed to the public Internet.
 Only the Jump Box provisioner machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
 My Personal IP.
 
-Machines within the network can only be accessed by Jump Box.  The only machine that had access to the Elk VM was the Jump Box.  It's IP is:
+Machines within the network can only be accessed by Jump Box.  The only machine that had access to the Elk VM was the Jump Box.  Its IP is:
 52.190.188.234
 
 
